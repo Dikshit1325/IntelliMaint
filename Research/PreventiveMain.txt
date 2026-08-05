@@ -1,0 +1,13 @@
+Preventive Maintenance
+
+Definition: Maintenance is scheduled at fixed intervals regardless of
+machine condition.
+
+Workflow: Operating Hours -> Scheduled Service -> Replace Parts ->
+Resume Operation
+
+Example Thresholds: Operating Hours: >500 hrs Oil Quality: <60% Service
+Interval: Every 30 days Bearing Inspection: Every 750 hrs
+
+Decision Rule: Maintenance Required if Operating Hours > 500 OR Oil
+Quality < 60%.

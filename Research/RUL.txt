@@ -1,0 +1,13 @@
+Why is RUL Important?
+Predicts when a machine will fail.
+Helps schedule maintenance in advance.
+Reduces unexpected downtime.
+Increases equipment reliability.
+Optimizes maintenance costs.
+
+How RUL Works
+Collect historical sensor data.
+Analyze degradation patterns.
+Train an AI model.
+Predict the remaining life of the machine.
+Recommend the best maintenance time.

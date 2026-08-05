@@ -1,0 +1,14 @@
+Reactive Maintenance
+
+Definition: Maintenance is performed only after the machine fails.
+
+Workflow: Machine Running -> Failure -> Repair -> Restart
+
+Example Parameters: Temperature: 98 C Vibration: 7.2 mm/s Pressure: 8.5
+bar Health Score: 0% Failure Probability: 100% Remaining Useful Life
+(RUL): 0 hours
+
+Characteristics: - No prediction - Highest downtime - Emergency repair -
+Highest maintenance cost
+
+Example formulas: Failure = 1 Health Score = 0 RUL = 0 hours
