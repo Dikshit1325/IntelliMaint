@@ -230,9 +230,9 @@ Feel free to fork the repository and submit a pull request.
 
 # 👨‍💻 Author
 
-**Dikshit Garg**
-**Bhumi**
-**Bhumika Gupta**
+**Dikshit Garg**,
+**Bhumi**,
+**Bhumika Gupta**,
 **Gunika Aggarwal**
 
 B.E. Computer Science Engineering
