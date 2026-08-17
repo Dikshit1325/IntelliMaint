@@ -1,0 +1,37 @@
+The Explainable AI module performs the following functions:
+
+Explains why a machine is predicted to fail.
+Identifies the most influential sensor features.
+Displays feature contribution percentages.
+Generates engineer-friendly maintenance explanations.
+Supports maintenance decision-making through transparent AI.
+
+This improves trust, transparency, and usability of the predictive maintenance system.
+
+The Explainable AI module follows the workflow below:
+
+Sensor data is collected from industrial machines.
+The processed data is passed to the trained machine learning model.
+The model predicts machine health and failure probability.
+SHAP values are calculated to determine feature contributions.
+The most influential features are identified.
+Maintenance recommendations are generated based on these explanations.
+Results are displayed on the IntelliMaint dashboard.
+
+For every prediction, SHAP calculates whether a particular feature increased or decreased the probability of machine failure.
+
+For example:
+
+Prediction:
+
+Machine Failure Probability = 92%
+
+SHAP Explanation:
+
+High Torque → +34%
+High Air Temperature → +28%
+High Tool Wear → +19%
+High Rotational Speed → +11%
+Process Temperature → +8%
+
+These values explain exactly why the AI predicted a high failure probability.
