@@ -1,0 +1,15 @@
+Predictive Maintenance
+
+Definition: AI predicts failures before they happen using sensor data.
+
+Sensors: Temperature, Pressure, Vibration, RPM, Torque, Voltage,
+Current, Oil Quality, Operating Hours.
+
+Outputs: Failure Probability Machine Health Score Remaining Useful Life
+(RUL)
+
+Example: Temperature: 84 C Vibration: 5.6 mm/s Failure Probability: 91%
+Health Score: 42% RUL: 35 hrs
+
+Decision: <30% Healthy 30-60% Monitor 60-80% Maintenance Soon >80%
+Immediate Maintenance

@@ -1,0 +1,14 @@
+Prescriptive Maintenance
+
+Definition: AI predicts failures and recommends the best maintenance
+action.
+
+Example: Temperature: 92 C Vibration: 6.3 mm/s Current: 19 A Failure
+Probability: 96% RUL: 18 hrs
+
+Recommendations: - Stop machine - Replace bearing - Lubricate shaft -
+Check motor alignment - Inspect cooling system
+
+Decision Rules: Temperature >85 C -> Cooling inspection Vibration >5
+mm/s -> Bearing replacement RUL <50 hrs -> Replace component Failure
+Probability >90% -> Immediate shutdown
